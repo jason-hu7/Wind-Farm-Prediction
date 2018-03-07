@@ -4,3 +4,5 @@ Suggestions to do next:
 - Kalman filter + SVM
 - Time series stuff like autocorrelation
 - Decide the time scale of the forecast
+- Adding some other weather information in that area for additional features
+- Plot wind speed vs power for any one turbine atleast (power curve)
