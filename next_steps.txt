@@ -1,0 +1,6 @@
+Suggestions to do next:
+
+- Filtering using probabilistic neural networks + RNNs
+- Kalman filter + SVM
+- Time series stuff like autocorrelation
+- Decide the time scale of the forecast
